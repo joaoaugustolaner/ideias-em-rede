@@ -6,6 +6,19 @@
 
 * Introdução:
 
+Dados os grandes volumes de textos atuais, técnicas de sumarização são
+cada vez mais presentes e importantes. A automatização dessa tarefa é
+dividida em 3 grandes vertentes.
 
+- *Extrativa*: Recorta pedaços chave do texto e concatena eles.
+- *Abstrativa*: Gera novas frases com o conteúdo principal do
+  parágrafo lido.
+- *Híbrida*: Utiliza de ambos os métodos acima, ou seja, extração de
+  características e geração de frases com essas características.
 
+#+BEGIN_BLOCKQUOTE
+Na língua portuguesa existem ferramentas de sumarização, mas elas são
+majoritariamente destinadas a pequenos textos ou reportagens.
+#+END_BLOCKQUOTE
 
+* O que é:
