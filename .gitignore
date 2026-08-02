@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.Python
+
+# Ambientes virtuais e ferramentas
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Dados e artefatos gerados
+data/raw/*
+reports/figures/*
+reports/*.html
+reports/*.csv
+reports/*.json
+
+# Exceções: preservar instruções nos diretórios
+!data/raw/.gitkeep
+!reports/figures/.gitkeep
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
